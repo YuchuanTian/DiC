@@ -10,7 +10,8 @@
 ## News
 
 3/3/2025: Codes & Weights are at the final stage of inspection. We will have them released ASAP.
-2/27/2025: DiC is accepted by CVPR 2025!
+
+2/27/2025: DiC is accepted by CVPR 2025! 🎉🎉
 
 ![effect](imgs/demo.jpg)
 
