@@ -1,0 +1,10 @@
+timm
+torch>=1.12
+diffusers
+einops
+torchprofile
+accelerate
+tensorflow
+tqdm
+scipy
+requests
